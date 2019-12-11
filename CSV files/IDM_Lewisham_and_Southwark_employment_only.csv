@@ -1,0 +1,332 @@
+LSOA,Ward Name,LA NAME,EMPLOYMENT SCORE,RANK OF EMPLOYMENT SCORE (where 1 is most deprived)
+E01003189,Bellingham,Lewisham,0.15,6314
+E01003190,Bellingham,Lewisham,0.17,4880
+E01003191,Bellingham,Lewisham,0.14,7585
+E01003192,Bellingham,Lewisham,0.21,2394
+E01003193,Bellingham,Lewisham,0.14,7399
+E01003194,Bellingham,Lewisham,0.15,6537
+E01003195,Bellingham,Lewisham,0.07,20013
+E01003196,Bellingham,Lewisham,0.13,8913
+E01003197,Bellingham,Lewisham,0.16,5426
+E01003198,Blackheath,Lewisham,0.09,14331
+E01003199,Blackheath,Lewisham,0.06,23113
+E01003200,Blackheath,Lewisham,0.05,25661
+E01003201,Blackheath,Lewisham,0.13,8151
+E01003202,Blackheath,Lewisham,0.04,27332
+E01003203,Blackheath,Lewisham,0.11,10435
+E01003204,Blackheath,Lewisham,0.09,14234
+E01003205,Blackheath,Lewisham,0.16,5633
+E01003206,Blackheath,Lewisham,0.08,15994
+E01003207,Brockley,Lewisham,0.13,8587
+E01003208,Brockley,Lewisham,0.08,16984
+E01003209,Brockley,Lewisham,0.14,7257
+E01003210,Brockley,Lewisham,0.11,11167
+E01003211,Brockley,Lewisham,0.10,12073
+E01003212,Brockley,Lewisham,0.11,11295
+E01003213,Brockley,Lewisham,0.10,11837
+E01003214,Brockley,Lewisham,0.13,7945
+E01003215,Brockley,Lewisham,0.08,17388
+E01003216,Catford South,Lewisham,0.12,9613
+E01003217,Catford South,Lewisham,0.07,18655
+E01003218,Catford South,Lewisham,0.08,17729
+E01003219,Catford South,Lewisham,0.08,17890
+E01003220,Catford South,Lewisham,0.13,8348
+E01003221,Catford South,Lewisham,0.10,12521
+E01003222,Catford South,Lewisham,0.09,14272
+E01003223,Catford South,Lewisham,0.07,18950
+E01003224,Catford South,Lewisham,0.09,13840
+E01003225,Crofton Park,Lewisham,0.06,21887
+E01003226,Crofton Park,Lewisham,0.08,17121
+E01003227,Crofton Park,Lewisham,0.07,17945
+E01003228,Crofton Park,Lewisham,0.07,20248
+E01003229,Crofton Park,Lewisham,0.13,8024
+E01003230,Crofton Park,Lewisham,0.15,6289
+E01003231,Crofton Park,Lewisham,0.11,10276
+E01003232,Crofton Park,Lewisham,0.07,20212
+E01003233,Crofton Park,Lewisham,0.08,15533
+E01003234,Downham,Lewisham,0.16,5782
+E01003235,Downham,Lewisham,0.12,9723
+E01003236,Downham,Lewisham,0.14,7474
+E01003237,Downham,Lewisham,0.14,7007
+E01003238,Downham,Lewisham,0.13,8164
+E01003239,Downham,Lewisham,0.12,9875
+E01003240,Downham,Lewisham,0.15,6588
+E01003241,Downham,Lewisham,0.19,3640
+E01003242,Downham,Lewisham,0.14,7755
+E01003243,Downham,Lewisham,0.14,7563
+E01003244,Evelyn,Lewisham,0.17,4877
+E01003245,Evelyn,Lewisham,0.17,4437
+E01003246,Evelyn,Lewisham,0.15,6049
+E01003247,Evelyn,Lewisham,0.07,18873
+E01003248,Evelyn,Lewisham,0.13,8320
+E01003249,Evelyn,Lewisham,0.14,6809
+E01003250,Evelyn,Lewisham,0.13,8293
+E01003251,Evelyn,Lewisham,0.15,6603
+E01003252,Evelyn,Lewisham,0.15,5857
+E01003253,Evelyn,Lewisham,0.16,5612
+E01003254,Forest Hill,Lewisham,0.06,20689
+E01003255,Forest Hill,Lewisham,0.10,12560
+E01003256,Forest Hill,Lewisham,0.17,4988
+E01003257,Forest Hill,Lewisham,0.11,10896
+E01003258,Forest Hill,Lewisham,0.16,5683
+E01003259,Forest Hill,Lewisham,0.10,11818
+E01003260,Forest Hill,Lewisham,0.08,15530
+E01003261,Forest Hill,Lewisham,0.09,15431
+E01003262,Forest Hill,Lewisham,0.09,14779
+E01003263,Grove Park,Lewisham,0.13,7951
+E01003264,Grove Park,Lewisham,0.10,12100
+E01003265,Grove Park,Lewisham,0.14,7577
+E01003266,Grove Park,Lewisham,0.17,4987
+E01003267,Grove Park,Lewisham,0.14,7407
+E01003268,Grove Park,Lewisham,0.10,11805
+E01003269,Grove Park,Lewisham,0.13,8524
+E01003270,Grove Park,Lewisham,0.06,21255
+E01003271,Grove Park,Lewisham,0.05,25061
+E01003272,Ladywell,Lewisham,0.10,13008
+E01003273,Ladywell,Lewisham,0.08,17801
+E01003274,Ladywell,Lewisham,0.07,18902
+E01003275,Ladywell,Lewisham,0.11,10384
+E01003276,Ladywell,Lewisham,0.09,14902
+E01003277,Ladywell,Lewisham,0.12,10075
+E01003278,Ladywell,Lewisham,0.10,13205
+E01003279,Ladywell,Lewisham,0.09,15316
+E01003280,Lee Green,Lewisham,0.13,8109
+E01003281,Lee Green,Lewisham,0.09,14334
+E01003282,Lee Green,Lewisham,0.10,11986
+E01003283,Lee Green,Lewisham,0.06,22280
+E01003284,Lee Green,Lewisham,0.10,12827
+E01003285,Lee Green,Lewisham,0.06,20672
+E01003286,Lee Green,Lewisham,0.13,8222
+E01003287,Lee Green,Lewisham,0.09,15361
+E01003288,Lewisham Central,Lewisham,0.14,6864
+E01003289,Lewisham Central,Lewisham,0.10,11855
+E01003290,Lewisham Central,Lewisham,0.14,6902
+E01003291,Lewisham Central,Lewisham,0.20,2642
+E01003292,Lewisham Central,Lewisham,0.06,22038
+E01003293,Lewisham Central,Lewisham,0.12,9630
+E01003294,Lewisham Central,Lewisham,0.10,12282
+E01003295,Lewisham Central,Lewisham,0.11,10901
+E01003296,Lewisham Central,Lewisham,0.09,14491
+E01003297,New Cross,Lewisham,0.08,16635
+E01003298,New Cross,Lewisham,0.14,7669
+E01003299,New Cross,Lewisham,0.14,7413
+E01003300,New Cross,Lewisham,0.14,7076
+E01003301,New Cross,Lewisham,0.06,21078
+E01003302,New Cross,Lewisham,0.10,12753
+E01003303,New Cross,Lewisham,0.11,11453
+E01003304,New Cross,Lewisham,0.12,9145
+E01003305,New Cross,Lewisham,0.16,5644
+E01003306,New Cross,Lewisham,0.13,8135
+E01003307,Perry Vale,Lewisham,0.09,14394
+E01003308,Perry Vale,Lewisham,0.12,10189
+E01003309,Perry Vale,Lewisham,0.14,6859
+E01003310,Perry Vale,Lewisham,0.18,4197
+E01003311,Perry Vale,Lewisham,0.08,16987
+E01003312,Perry Vale,Lewisham,0.10,13224
+E01003313,Perry Vale,Lewisham,0.14,7540
+E01003314,Perry Vale,Lewisham,0.10,12863
+E01003315,Perry Vale,Lewisham,0.11,10771
+E01003316,Perry Vale,Lewisham,0.09,14330
+E01003317,Rushey Green,Lewisham,0.08,15589
+E01003318,Rushey Green,Lewisham,0.16,5178
+E01003319,Rushey Green,Lewisham,0.11,10946
+E01003320,Rushey Green,Lewisham,0.14,7665
+E01003321,Rushey Green,Lewisham,0.21,2474
+E01003322,Rushey Green,Lewisham,0.10,12104
+E01003323,Rushey Green,Lewisham,0.13,7949
+E01003324,Rushey Green,Lewisham,0.14,6846
+E01003325,Rushey Green,Lewisham,0.13,8156
+E01003326,Sydenham,Lewisham,0.12,9944
+E01003327,Sydenham,Lewisham,0.08,16202
+E01003328,Sydenham,Lewisham,0.11,10537
+E01003329,Sydenham,Lewisham,0.11,10941
+E01003330,Sydenham,Lewisham,0.13,7931
+E01003331,Sydenham,Lewisham,0.14,6916
+E01003332,Sydenham,Lewisham,0.12,9332
+E01003333,Sydenham,Lewisham,0.11,10413
+E01003334,Sydenham,Lewisham,0.15,6742
+E01003335,Sydenham,Lewisham,0.19,3349
+E01003336,Telegraph Hill,Lewisham,0.14,7354
+E01003337,Telegraph Hill,Lewisham,0.16,5211
+E01003338,Telegraph Hill,Lewisham,0.16,5062
+E01003339,Telegraph Hill,Lewisham,0.13,8513
+E01003340,Telegraph Hill,Lewisham,0.09,13751
+E01003341,Telegraph Hill,Lewisham,0.09,14586
+E01003342,Telegraph Hill,Lewisham,0.08,16944
+E01003343,Telegraph Hill,Lewisham,0.10,12583
+E01003344,Telegraph Hill,Lewisham,0.12,9404
+E01003345,Telegraph Hill,Lewisham,0.08,15510
+E01003346,Whitefoot,Lewisham,0.13,8867
+E01003347,Whitefoot,Lewisham,0.19,3553
+E01003348,Whitefoot,Lewisham,0.12,9284
+E01003349,Whitefoot,Lewisham,0.14,7510
+E01003350,Whitefoot,Lewisham,0.13,7921
+E01003351,Whitefoot,Lewisham,0.12,9400
+E01003352,Whitefoot,Lewisham,0.12,9349
+E01003353,Whitefoot,Lewisham,0.09,15033
+E01003354,Whitefoot,Lewisham,0.08,17842
+E01003911,Brunswick Park,Southwark,0.10,12471
+E01003912,Brunswick Park,Southwark,0.15,6107
+E01003913,Brunswick Park,Southwark,0.15,6730
+E01003914,Brunswick Park,Southwark,0.11,10449
+E01003915,Brunswick Park,Southwark,0.14,7744
+E01003916,Brunswick Park,Southwark,0.08,16076
+E01003917,Brunswick Park,Southwark,0.12,9713
+E01003918,Camberwell Green,Southwark,0.11,10933
+E01003919,Camberwell Green,Southwark,0.10,13167
+E01003920,Camberwell Green,Southwark,0.14,6848
+E01003921,Camberwell Green,Southwark,0.15,6201
+E01003922,Camberwell Green,Southwark,0.11,11598
+E01003923,Camberwell Green,Southwark,0.12,10168
+E01003924,Camberwell Green,Southwark,0.17,4876
+E01003925,Camberwell Green,Southwark,0.14,7487
+E01003926,Camberwell Green,Southwark,0.10,12718
+E01003927,Cathedrals,Southwark,0.06,20855
+E01003928,Cathedrals,Southwark,0.12,9658
+E01003929,Cathedrals,Southwark,0.09,13537
+E01003930,Cathedrals,Southwark,0.08,17389
+E01003931,Cathedrals,Southwark,0.11,10940
+E01003932,Cathedrals,Southwark,0.14,7503
+E01003933,Cathedrals,Southwark,0.08,17725
+E01003934,Cathedrals,Southwark,0.13,8107
+E01003935,Cathedrals,Southwark,0.05,23870
+E01003936,Chaucer,Southwark,0.01,32397
+E01003937,Chaucer,Southwark,0.04,29287
+E01003938,Chaucer,Southwark,0.11,10713
+E01003939,Chaucer,Southwark,0.06,23088
+E01003940,Chaucer,Southwark,0.13,8460
+E01003941,Chaucer,Southwark,0.07,20189
+E01003942,Chaucer,Southwark,0.11,11114
+E01003943,Chaucer,Southwark,0.11,11272
+E01003944,Chaucer,Southwark,0.09,14316
+E01003945,College,Southwark,0.06,22006
+E01003946,College,Southwark,0.07,20533
+E01003947,College,Southwark,0.13,8614
+E01003948,College,Southwark,0.09,14393
+E01003949,College,Southwark,0.09,13965
+E01003950,College,Southwark,0.17,4723
+E01003951,College,Southwark,0.05,26546
+E01003952,East Dulwich,Southwark,0.05,23769
+E01003953,East Dulwich,Southwark,0.08,16262
+E01003954,East Dulwich,Southwark,0.08,15813
+E01003955,East Dulwich,Southwark,0.09,14668
+E01003956,East Dulwich,Southwark,0.08,17517
+E01003957,East Dulwich,Southwark,0.06,22738
+E01003958,East Dulwich,Southwark,0.08,16639
+E01003959,East Walworth,Southwark,0.11,11159
+E01003960,East Walworth,Southwark,0.08,16891
+E01003961,East Walworth,Southwark,0.17,4954
+E01003962,East Walworth,Southwark,0.12,9197
+E01003963,East Walworth,Southwark,0.16,5414
+E01003964,East Walworth,Southwark,0.14,6954
+E01003965,East Walworth,Southwark,0.09,13481
+E01003966,East Walworth,Southwark,0.14,7520
+E01003967,Faraday,Southwark,0.15,6701
+E01003968,Faraday,Southwark,0.13,8341
+E01003969,Faraday,Southwark,0.10,13020
+E01003970,Faraday,Southwark,0.11,10551
+E01003971,Faraday,Southwark,0.11,11567
+E01003972,Faraday,Southwark,0.11,10714
+E01003973,Faraday,Southwark,0.11,11150
+E01003974,Faraday,Southwark,0.14,7190
+E01003975,Grange,Southwark,0.14,7225
+E01003976,Grange,Southwark,0.07,17952
+E01003977,Grange,Southwark,0.13,8133
+E01003978,Grange,Southwark,0.08,17776
+E01003979,Grange,Southwark,0.12,9172
+E01003980,Grange,Southwark,0.14,6976
+E01003981,Grange,Southwark,0.10,13322
+E01003982,Grange,Southwark,0.04,26892
+E01003983,Livesey,Southwark,0.15,6355
+E01003984,Livesey,Southwark,0.15,6569
+E01003985,Livesey,Southwark,0.13,7980
+E01003986,Livesey,Southwark,0.18,4166
+E01003987,Livesey,Southwark,0.13,8669
+E01003988,Livesey,Southwark,0.13,8251
+E01003989,Livesey,Southwark,0.12,9214
+E01003990,Livesey,Southwark,0.16,5412
+E01003991,Newington,Southwark,0.11,11315
+E01003992,Newington,Southwark,0.10,13441
+E01003993,Newington,Southwark,0.12,9013
+E01003994,Newington,Southwark,0.14,7031
+E01003995,Newington,Southwark,0.15,6620
+E01003996,Newington,Southwark,0.11,11353
+E01003997,Newington,Southwark,0.09,13808
+E01003998,Newington,Southwark,0.13,8315
+E01003999,Newington,Southwark,0.09,14468
+E01004000,Nunhead,Southwark,0.17,4468
+E01004001,Nunhead,Southwark,0.15,6047
+E01004002,Nunhead,Southwark,0.09,13779
+E01004003,Nunhead,Southwark,0.20,3072
+E01004004,Nunhead,Southwark,0.15,6385
+E01004005,Nunhead,Southwark,0.21,2494
+E01004006,Nunhead,Southwark,0.15,6435
+E01004007,Peckham,Southwark,0.09,14392
+E01004008,Peckham,Southwark,0.16,5046
+E01004009,Peckham,Southwark,0.16,5771
+E01004010,Peckham,Southwark,0.10,11937
+E01004011,Peckham,Southwark,0.16,5086
+E01004012,Peckham,Southwark,0.17,4913
+E01004013,Peckham,Southwark,0.09,14730
+E01004014,Peckham,Southwark,0.15,6670
+E01004015,Peckham Rye,Southwark,0.06,20880
+E01004016,Peckham Rye,Southwark,0.09,14527
+E01004017,Peckham Rye,Southwark,0.08,16762
+E01004018,Peckham Rye,Southwark,0.06,22854
+E01004019,Peckham Rye,Southwark,0.14,7260
+E01004020,Peckham Rye,Southwark,0.14,7490
+E01004021,Peckham Rye,Southwark,0.08,17762
+E01004022,Riverside,Southwark,0.11,11006
+E01004023,Riverside,Southwark,0.12,10151
+E01004024,Riverside,Southwark,0.14,7615
+E01004025,Riverside,Southwark,0.01,32458
+E01004026,Riverside,Southwark,0.01,32451
+E01004027,Riverside,Southwark,0.13,8815
+E01004028,Riverside,Southwark,0.15,6585
+E01004029,Rotherhithe,Southwark,0.04,27555
+E01004030,Rotherhithe,Southwark,0.10,12152
+E01004031,Rotherhithe,Southwark,0.08,16448
+E01004032,Rotherhithe,Southwark,0.02,31778
+E01004033,Rotherhithe,Southwark,0.12,10081
+E01004034,Rotherhithe,Southwark,0.09,13547
+E01004035,Rotherhithe,Southwark,0.13,8046
+E01004036,Rotherhithe,Southwark,0.12,9728
+E01004037,South Bermondsey,Southwark,0.09,13871
+E01004038,South Bermondsey,Southwark,0.09,15069
+E01004039,South Bermondsey,Southwark,0.06,22910
+E01004040,South Bermondsey,Southwark,0.15,6305
+E01004041,South Bermondsey,Southwark,0.11,10818
+E01004042,South Bermondsey,Southwark,0.17,4875
+E01004043,South Bermondsey,Southwark,0.12,9307
+E01004044,South Bermondsey,Southwark,0.15,6452
+E01004045,South Camberwell,Southwark,0.11,10279
+E01004046,South Camberwell,Southwark,0.10,12441
+E01004047,South Camberwell,Southwark,0.11,11497
+E01004048,South Camberwell,Southwark,0.06,22542
+E01004049,South Camberwell,Southwark,0.06,20932
+E01004050,South Camberwell,Southwark,0.05,24060
+E01004051,South Camberwell,Southwark,0.03,30943
+E01004052,South Camberwell,Southwark,0.10,12652
+E01004053,Surrey Docks,Southwark,0.03,31175
+E01004054,Surrey Docks,Southwark,0.02,32031
+E01004055,Surrey Docks,Southwark,0.12,9057
+E01004056,Surrey Docks,Southwark,0.06,21213
+E01004057,Surrey Docks,Southwark,0.07,20441
+E01004058,Surrey Docks,Southwark,0.01,32418
+E01004059,Surrey Docks,Southwark,0.02,32080
+E01004060,Surrey Docks,Southwark,0.11,10631
+E01004061,The Lane,Southwark,0.09,14073
+E01004062,The Lane,Southwark,0.11,11558
+E01004063,The Lane,Southwark,0.14,7543
+E01004064,The Lane,Southwark,0.11,10777
+E01004065,The Lane,Southwark,0.09,13644
+E01004066,The Lane,Southwark,0.13,7986
+E01004067,The Lane,Southwark,0.12,10015
+E01004068,The Lane,Southwark,0.14,7622
+E01004069,Village,Southwark,0.02,31888
+E01004070,Village,Southwark,0.08,16537
+E01004071,Village,Southwark,0.09,15166
+E01004072,Village,Southwark,0.05,25597
+E01004073,Village,Southwark,0.04,27070
+E01004074,Village,Southwark,0.05,23666
+E01004075,Village,Southwark,0.02,32203
