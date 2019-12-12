@@ -33,6 +33,8 @@ download.file("https://data.london.gov.uk/download/statistical-gis-boundary-file
 
 #4. load relevant  CVS file containing the London Data set
 
+# code is avaialble from the following site https://github.com/jasdalucl2018/CASA_Assignment_2019/blob/master/CSV%20files/OpenSourceCSVFiles/LondonData2.csv
+
 ward <- read_csv("/Users/jasondalrymple/Desktop/UCL laptop  LBU 19_9_26/A. Modules/CASA0005 GIS&S/course work_1/R Code /LondonData2.csv")
 
 

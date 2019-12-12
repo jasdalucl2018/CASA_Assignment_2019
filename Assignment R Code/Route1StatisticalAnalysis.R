@@ -19,7 +19,7 @@
 #Source of the code - much of the code is based on code made avaible by Mirco Musolesi  m.musolesi@ucl.ac.uk as part of 
 UCL's Principles of Spatial Analysis Practicals Module 2018 - 2019 GEOG0014. For further information please contact 
 
-
+note - this code has been written for apple users, and assumes that the relevant files have already been loaded to the local drive 
 
 ====
 #1 Load all required libraries
@@ -32,7 +32,9 @@ library(tidyverse)
 library(ggplot2)
   
 #2. Load CVS file containing the London Data set
-  
+
+# files are available from the following site   https://github.com/jasdalucl2018/CASA_Assignment_2019/blob/master/CSV%20files/ProjectCSVFiles/Route1_IMDvsEmployment.csv
+
 ward <- read_csv("/Users/jasondalrymple/Desktop/UCL laptop  LBU 19_9_26/A. Modules/CASA0005 GIS&S/Coursework_Methodology reperformed/CSV/Route1_IMDvsEmployment.csv")
 
 

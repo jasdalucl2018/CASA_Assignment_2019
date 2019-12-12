@@ -5,6 +5,8 @@
 
 #Note - much of this code comes from CASA0005: Geographic Information Systems and Science (19/20) - practical book 
 # available at https://andrewmaclachlan.github.io/CASA0005repo/analysing-spatial-patterns.html
+
+# the code assumes that all files have been loaded to the local drive 
 #======================================
 
 #Confirmj working directory
@@ -43,6 +45,8 @@ BoroughMapBNG <- spTransform(BoroughMap,BNG)
   
 BusStops <- geojson_read("/Users/jasondalrymple/Desktop/UCL laptop  LBU 19_9_26/A. Modules/CASA0005 GIS&S/RCodeForAssignment/CodeForBusses/bus routes/BusStopGeoJsonFile.geojson", 
                           what = "sp")
+# code is available from the following site https://github.com/jasdalucl2018/CASA_Assignment_2019/blob/master/geojson%20files%20/BusStopGeoJsonFile.geojson
+
 #6. Run summary data
 summary(BusStops)
 
@@ -64,6 +68,8 @@ tm_shape(BoroughMapBNG) +
 #9 load bus routes
 BusRoutes <- geojson_read("/Users/jasondalrymple/Desktop/UCL laptop  LBU 19_9_26/A. Modules/CASA0005 GIS&S/RCodeForAssignment/CodeForBusses/bus routes/BusRoutesGeoJsonFile.geojson", 
                          what = "sp")
+
+# code is available from the following site https://github.com/jasdalucl2018/CASA_Assignment_2019/blob/master/geojson%20files%20/BusRoutesGeoJsonFile.geojson
 #9.1 summary bus route data to confirm loaded
 summary(BusRoutes)
 

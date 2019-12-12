@@ -19,7 +19,7 @@
 #Source of the code - much of the code is based on code made avaible by Mirco Musolesi  m.musolesi@ucl.ac.uk as part of 
 UCL's Principles of Spatial Analysis Practicals Module 2018 - 2019 GEOG0014. For further information please contact 
 
-
+NOTE - this code sssumes that the file have been loaded to the local drives, and has been written for Apple users
 
 ====
 #1 Load all required libraries
@@ -34,8 +34,11 @@ library(ggplot2)
 
   
 #2. Load CVS file containing the London Data set
-  
+
+# file available from the following site   https://github.com/jasdalucl2018/CASA_Assignment_2019/blob/master/CSV%20files/OpenSourceCSVFiles/LondonData2.csv
+
 ward <- read_csv("/Users/jasondalrymple/Desktop/UCL laptop  LBU 19_9_26/A. Modules/CASA0005 GIS&S/course work_1/R Code /LondonData2.csv")
+
 
 #3. Select columns to analyse
 
